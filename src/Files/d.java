@@ -14,7 +14,9 @@ public class d {
 			{if(intArr[i]==intArr[j])
 				System.out.println(intArr[j]);
 				}
-		}
+		
+		System.out.println("Chagig in the master");
+		} 
 	}
 
 	
